@@ -1,0 +1,10 @@
+Ingredients:
+ - 2 eggs
+ - 1 Onion
+ - 1 microwave
+
+Directions:
+  1. Break the eggs and stir them.
+  2. Slice the onion in small bits.
+  3. Add onion to the eggs.
+  3. Microwave the whole thing for 2 and a half minutes.
